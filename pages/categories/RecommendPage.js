@@ -1,6 +1,6 @@
 import MovieList from "../../components/MovieList";
 
-export default function RecommendedPage({ navigation }) {
+export default function RecommendPage({ navigation }) {
   return (
     <MovieList
       title="Recommended Movies"
