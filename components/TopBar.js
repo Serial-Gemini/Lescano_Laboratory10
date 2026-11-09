@@ -37,17 +37,17 @@ export default function TopBar() {
             }}
           >
             <Text className="text-white text-xl font-black">
-              G
+              C
             </Text>
           </LinearGradient>
 
           <View>
             <Text className="text-white text-lg font-black tracking-widest">
-              Gemini Movies
+              CINEVAULT
             </Text>
 
             <Text className="text-purple-300 text-xs tracking-widest">
-              It's better than Blockbuster, that's for sure!
+              YOUR CINEMATIC UNIVERSE
             </Text>
           </View>
         </View>
