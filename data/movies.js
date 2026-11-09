@@ -103,4 +103,13 @@ export const MOVIES = [
     image: require("../assets/images/obsession.jpg"),
     categories: ["Top Rated", "Popular", "Recommended"],
   },
+  {
+    id: "9",
+    title: "Obsession",
+    year: 2008,
+    rating: "9.0/10",
+    desc: "After breaking the mysterious 'One Wish Willow' to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    image: require("../assets/images/obsession.jpg"),
+    categories: ["Top Rated", "Popular", "Recommended"],
+  },
 ];

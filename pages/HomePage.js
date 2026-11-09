@@ -10,11 +10,11 @@ export default function HomePage({ navigation }) {
       </Text>
 
       <Text className="text-white text-4xl font-bold mt-3">
-        CINEVAULT
+        GEMINI MOVIES
       </Text>
 
       <Text className="text-gray-400 text-center mt-4">
-        Discover movies, explore stories, and find your next favorite film.
+        Scour through our catalog of movies to find what you're looking for...
       </Text>
 
       <Pressable
